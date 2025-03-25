@@ -340,7 +340,7 @@ with tabs[1]:
         
         #x_col = "trend_hi_oil"
         #y_col = "trend_hi_water"
-        imagen_url = "https://raw.githubusercontent.com/carlosmr91/IH_ACE/main/poligono2.PNG"
+        imagen_url = "https://raw.githubusercontent.com/carlosmr91/ACE_IH_PROD/main/poligono2.PNG"
         img_x_min, img_x_max = 543594, 588000
         img_y_min, img_y_max = 2440590.0, 2483940.0
     
@@ -364,7 +364,7 @@ with tabs[1]:
         y_col = f"trend_{opciones[y_label4]}"
         #x_col = "trend_hi_cum_oil"
         #y_col = "trend_hi_cum_water"
-        imagen_url = "https://raw.githubusercontent.com/carlosmr91/IH_ACE/main/poligono2.PNG"
+        imagen_url = "https://raw.githubusercontent.com/carlosmr91/ACE_IH_PROD/main/poligono2.PNG"
         img_x_min, img_x_max = 543594, 588000
         img_y_min, img_y_max = 2440590.0, 2483940.0
     
